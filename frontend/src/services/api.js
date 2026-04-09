@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://madeena.onrender.com/api',
+  baseURL: 'https://madeenaapi.adwaithh.online/api',
   headers: {
     'Content-Type': 'application/json',
   },
